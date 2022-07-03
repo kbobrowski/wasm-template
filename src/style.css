@@ -1,0 +1,8 @@
+main > * {
+  font-size: 1.5rem;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+input {
+  max-width: 10rem;
+}
